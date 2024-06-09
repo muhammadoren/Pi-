@@ -1,0 +1,28 @@
+[
+  {
+    "name": "__cf_bm",
+    "value": "VXZjINQ_DHnVjFe5zNXMkYWWdnAJ9hsPqxpHzRM6l5w-1715290291-1.0.1.1-UYvoJ7ZvVot7gQGA5BQX7B4u20C7R.7HWnal1GJ8P57UzNl7OCGZP.T8Uc0QIUWALsu3JBzmoNT5Ymz69QiRcg",
+    "domain": ".pi.ai",
+    "path": "/",
+    "expirationDate": 1715292089.761556,
+    "sameSite": "no_restriction",
+    "storeId": "0",
+    "hostOnly": false,
+    "httpOnly": true,
+    "secure": true,
+    "session": false
+  },
+  {
+    "name": "__Host-session",
+    "value": "RMgEk4nTCViN8kdwNuadx",
+    "domain": "pi.ai",
+    "path": "/",
+    "expirationDate": 1716499889.761411,
+    "sameSite": "lax",
+    "storeId": "0",
+    "hostOnly": true,
+    "httpOnly": true,
+    "secure": true,
+    "session": false
+  }
+]
